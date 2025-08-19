@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "hay_pepper",
+  "wake_word": "hey_pepper",
   "author": "sarah howlett",
-  "website": "https://github.com/MasterPhooey/MicroWakeWord-Trainer-Docker",
-  "model": "https://raw.githubusercontent.com/saravalkyrie2/pepper/refs/heads/main/hay_pepper.tflite",
+  "website": "https://github.com/saravalkyrie2/pepper/",
+  "model": "https://raw.githubusercontent.com/saravalkyrie2/pepper/refs/heads/main/hey_pepper.tflite",
   "trained_languages": [
     "en"
   ],

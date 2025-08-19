@@ -3,7 +3,7 @@
   "wake_word": "hay_pepper",
   "author": "sarah howlett",
   "website": "https://github.com/MasterPhooey/MicroWakeWord-Trainer-Docker",
-  "model": "https://homeassistant.saravalkyrie.me:8123/local/pepperva/hay_pepper.tflite",
+  "model": "https://raw.githubusercontent.com/saravalkyrie2/pepper/refs/heads/main/hay_pepper.tflite?token=GHSAT0AAAAAADJPS7JNKCZDQLQRAEGDXWKO2FEGSRA",
   "trained_languages": [
     "en"
   ],
